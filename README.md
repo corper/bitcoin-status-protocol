@@ -1,4 +1,4 @@
-# bitcoin status protocol
+# Bitcoin status service
 
 Bitcoin status service sends status data of Bitcoin to Bitcoin SV blockchain every hour.
 
