@@ -52,7 +52,7 @@ The UTF-8 json object string after data type is the second section of OP_RETURN 
 ## How to use
 You can query or subscribe these data through [bitdb](https://bitdb.network/) or [bitsocket](https://bitsocket.network/).
 
-[Qeury latest 10 tx](https://genesis.bitdb.network/query/1FnauZ9aUH2Bex6JzdcV4eNX7oLSSEbxtN/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogewogICAgICAiaW4uZS5hIjoiMUxGZnJETTI3S1hlVW4xeEg5TlRrbldIZXhUeHFpRWNuRiIsCiAgICAgICJvdXQuYjAiOnsib3AiOjEwNn0KICAgIH0sCiAgICAibGltaXQiOiAxMCwKICAgICJwcm9qZWN0Ijp7Im91dC4kIjoxfQogIH0KfQ==):
+[Qeury data in latest 10 hours](https://genesis.bitdb.network/query/1FnauZ9aUH2Bex6JzdcV4eNX7oLSSEbxtN/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogewogICAgICAiaW4uZS5hIjoiMUxGZnJETTI3S1hlVW4xeEg5TlRrbldIZXhUeHFpRWNuRiIsCiAgICAgICJvdXQuYjAiOnsib3AiOjEwNn0KICAgIH0sCiAgICAibGltaXQiOiAxMCwKICAgICJwcm9qZWN0Ijp7Im91dC4kIjoxfQogIH0KfQ==):
 ```
 {
   "v": 3,
