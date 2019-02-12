@@ -66,4 +66,6 @@ You can query or subscribe these data through [bitdb](https://bitdb.network/) or
   }
 }
 ```
+## Applications
+1. [Bitcoin Status](https://bico.media/a3deeef957f7079642c2169dc37b12856fd083ea2c7e762830bb9cf627561326.html)
 
