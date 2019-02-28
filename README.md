@@ -50,7 +50,7 @@ The UTF-8 json object string after data type is the second section of OP_RETURN 
 | bsv/bch/btc | object | Name of blockchain and coin which data belongs to |
 | price | decimal | Price in USD |
 | tx_num_24h | unsigned int | Tx number in latest 144 blocks |
-| avg_size_per_blk_24h | unsigned decimals | Average block size in byte in latest 144 blocks |
+| avg_size_per_blk_24h | unsigned decimals | Average block size in byte of latest 144 blocks |
 | source | object | Data source |
 
 ## How to use
