@@ -16,17 +16,17 @@ status
     "bsv":{
       "price":65.68,
       "tx_num_24h":5765,
-      "avg_size_per_blk_24h":825756.25
+      "avg_size_per_blk_24h":825756
     },
     "bch":{
       "price":127.13,
       "tx_num_24h":9903,
-      "avg_size_per_blk_24h":65227.9375
+      "avg_size_per_blk_24h":65227
     },
     "btc":{
       "price":3663.64,
       "tx_num_24h":288881
-      "avg_size_per_blk_24h":1115368.5486
+      "avg_size_per_blk_24h":1115368
     }
   },
   "source":{
@@ -50,7 +50,7 @@ The UTF-8 json object string after data type is the second section of OP_RETURN 
 | bsv/bch/btc | object | Name of blockchain and coin which data belongs to |
 | price | decimal | Price in USD |
 | tx_num_24h | unsigned int | Tx number in latest 144 blocks |
-| avg_size_per_blk_24h | unsigned decimals | Average block size in byte of latest 144 blocks |
+| avg_size_per_blk_24h | unsigned int | Average block size in byte of latest 144 blocks |
 | source | object | Data source |
 
 ## How to use
