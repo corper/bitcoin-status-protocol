@@ -10,7 +10,7 @@ Data is saved in OP_RETURN. Here is a example:
 ```
 status
 {
-  "version":"0.1.1",
+  "version":"0.2.0",
   "timestamp":1549769217,
   "data":{
     "bsv":{
@@ -71,5 +71,5 @@ You can query or subscribe these data through [bitdb](https://bitdb.network/) or
 }
 ```
 ## Applications base on data of bitcoin status service
-1. [Bitcoin Status](https://bico.media/17831482d2ccf2aaa71c26efbe14a17d3c9b7cac7956119df16e95903ee767b4.html)
+1. [Bitcoin Status](https://bico.media/edf1f1738e29284129757bc84e2daa2a3f0b92ffb2f256912948b34a2a2614f2.html)
 
