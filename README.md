@@ -71,5 +71,5 @@ You can query or subscribe these data through [bitdb](https://bitdb.network/) or
 }
 ```
 ## Applications base on data of bitcoin status service
-1. [Bitcoin Status](https://bico.media/edf1f1738e29284129757bc84e2daa2a3f0b92ffb2f256912948b34a2a2614f2.html)
+1. [Bitcoin Status](http://bitcoin-status.info)
 
