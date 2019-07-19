@@ -6,7 +6,7 @@ Bitcoin status service sends status data of Bitcoin to Bitcoin SV blockchain eve
 Bitcoin status service always send data from address [1LFfrDM27KXeUn1xH9NTknWHexTxqiEcnF](https://bchsvexplorer.com/address/1LFfrDM27KXeUn1xH9NTknWHexTxqiEcnF).  You can tip to this address if you like this service. Tips keep this service alive.
 
 ## Data Format
-Data is saved in OP_RETURN. Here is a example:
+Data is saved in OP_RETURN. Here is an example:
 ```
 status
 {
